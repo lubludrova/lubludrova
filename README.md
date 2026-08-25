@@ -8,7 +8,6 @@
   <a href="#contact"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/d532b8a9e8a96ed5462f3813106f0b1e230249dc/images/svg/wechat.svg" width="24" height="24" alt="WeChat: RuslanAgeev" title="WeChat: RuslanAgeev"></a>&nbsp;&nbsp;
   <a href="https://open.spotify.com/s/aAFNJVS"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/d532b8a9e8a96ed5462f3813106f0b1e230249dc/images/svg/spotify.svg" width="24" height="24" alt="Spotify" title="Spotify"></a>&nbsp;&nbsp;
   <a href="https://boxd.it/joOFX"><img src="https://a.ltrbxd.com/logos/letterboxd-decal-dots-pos-rgb.svg" width="24" height="24" alt="Letterboxd" title="Letterboxd"></a>&nbsp;&nbsp;
-  <a href="mailto:rus.ageev2003@gmail.com"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/d532b8a9e8a96ed5462f3813106f0b1e230249dc/images/svg/email.svg" width="24" height="24" alt="Email Ruslan" title="Email"></a>
 </p>
 
 

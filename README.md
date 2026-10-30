@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Rusik
+## Hi there 👋, I'm Ruslam
 
 
 <p>
